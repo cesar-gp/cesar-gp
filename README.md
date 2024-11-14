@@ -1,3 +1,18 @@
+<style>
+  img[src*='#left'] {
+      float: left;
+  }
+  
+  img[src*='#right'] {
+      float: right;
+  }
+  
+  img[src*='#center'] {
+      display: block;
+      margin: auto;
+  }
+</style>
+
 # Hi! I'm César 👋
 I'm a sociologist specialized on Social Media and User Experience Design from Mérida, Spain.
 This is my GitHub account for professional projects. Take a look, have fun! 😉
