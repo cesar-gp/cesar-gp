@@ -2,7 +2,7 @@
 I'm a sociologist specialized on Social Media and User Experience Design from Mérida, Spain.  
 This is my GitHub account for professional projects. Take a look, have fun! 😉
 
-## Portfolio
+## My projects
 <table>
   <tr>
     <td><img src="https://cesar-gp.github.io/assets/img/favicon.webp"></td>
@@ -14,6 +14,17 @@ This is my GitHub account for professional projects. Take a look, have fun! 😉
         and adapts it to my own style. Take a look for yourself :)<br>
         <br>
         🔗 You can browse the repository <a href="https://github.com/cesar-gp/cesar-gp.github.io">here</a>.
+    </td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td>
+        ➡️ <a href="https://cesar-gp.github.io/os-dev">cesar-gp.github.io/os-dev</a> is a blog written from scratch in which I document what I learn about Operating Systems Development (OSDev).<br>
+        It's designed to be beginner-friendly (mostly because I <em>am</em> a beginner too 🤠).<br>
+        <br>
+        ⏳ I know no one will be eagerly waiting for the next chapter. But, in case you do... <em>Please, be patient</em>.<br>
+        <br>
+        🔗 You can browse the repository <a href="https://github.com/cesar-gp/os-dev">here</a>.
     </td>
   </tr>
 </table>
