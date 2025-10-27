@@ -24,7 +24,7 @@ Esta es mi cuenta de GitHub para proyectos "profesionales" (los pocos que tengo 
         ➡️ <a href="https://cesar-gp.github.io/os-dev">cesar-gp.github.io/os-dev</a> es un blog escrito desde cero en el que documento lo que voy aprendiendo sobre desarrollo de sistemas operativos (OSDev).<br>
         Es bastante apto para principiantes (principalmente, porque yo <em>soy</em> un principiante en el tema 🤠).<br>
         <br>
-        ⏳ Sé que nadie va a estar ansioso esperando el siguiente capítulo, pero si lo estás... <em>por favor, ten paciencia.</em>.<br>
+        ⏳ Sé que nadie va a estar ansioso esperando el siguiente capítulo, pero si lo estás... <em>por favor, ten paciencia</em>.<br>
         <br>
         🔗 Puedes acceder al repositorio desde <a href="https://github.com/cesar-gp/os-dev">aquí</a>.
     </td>
