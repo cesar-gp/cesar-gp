@@ -19,14 +19,10 @@ Esta es mi cuenta de GitHub para proyectos "profesionales" (los pocos que tengo 
     </td>
   </tr>
   <tr>
-    <td>📚</td>
+    <td>🔥</td>
     <td>
-        ➡️ <a href="https://cesar-gp.github.io/os-dev">cesar-gp.github.io/os-dev</a> es un blog escrito desde cero en el que documento lo que voy aprendiendo sobre desarrollo de sistemas operativos (OSDev).<br>
-        Es bastante apto para principiantes (principalmente, porque yo <em>soy</em> un principiante en el tema 🤠).<br>
-        <br>
-        ⏳ Sé que nadie va a estar ansioso esperando el siguiente capítulo, pero si lo estás... <em>por favor, ten paciencia</em>.<br>
-        <br>
-        🔗 Puedes acceder al repositorio desde <a href="https://github.com/cesar-gp/os-dev">aquí</a>.
+        ➡️ <a href="https://github.com/cesar-gp/blaze">Blaze</a> es un mini-sistema operativo que estoy creando como proyecto personal.<br>
+        Está escrito en C y Assembly, y es compatible únicamente con la arquitectura x86. No esperes encontrarte ahí el kernel de Linux.
     </td>
   </tr>
 </table>
@@ -52,14 +48,10 @@ This is my GitHub account for "professional" (and by that, I mean *publishable*)
     </td>
   </tr>
   <tr>
-    <td>📚</td>
+    <td>🔥</td>
     <td>
-        ➡️ <a href="https://cesar-gp.github.io/os-dev">cesar-gp.github.io/os-dev</a> is a blog written from scratch in which I document what I learn about Operating Systems Development (OSDev).<br>
-        It's designed to be beginner-friendly (mostly because I <em>am</em> a beginner too 🤠).<br>
-        <br>
-        ⏳ I know no one will be eagerly waiting for the next chapter. But, in case you do... <em>Please, be patient</em>.<br>
-        <br>
-        🔗 You can browse the repository <a href="https://github.com/cesar-gp/os-dev">here</a>.
+        ➡️ <a href="https://github.com/cesar-gp/blaze">Blaze</a> is a minimal operating system that I started as a hobby project.<br>
+        It's written in C and Assembly, and it's only compatible with the x86 architecture. Don't expect to find the Linux kernel in that repository.
     </td>
   </tr>
 </table>
