@@ -22,6 +22,7 @@ Esta es mi cuenta de GitHub para proyectos "profesionales" (los pocos que tengo 
     <td>🔥</td>
     <td>
         ➡️ <a href="https://github.com/cesar-gp/blaze">Blaze</a> es un mini-sistema operativo que estoy creando como proyecto personal.<br>
+        <br>
         Está escrito en C y Assembly, y es compatible únicamente con la arquitectura x86. No esperes encontrarte ahí el kernel de Linux.
     </td>
   </tr>
@@ -51,6 +52,7 @@ This is my GitHub account for "professional" (and by that, I mean *publishable*)
     <td>🔥</td>
     <td>
         ➡️ <a href="https://github.com/cesar-gp/blaze">Blaze</a> is a minimal operating system that I started as a hobby project.<br>
+        <br>
         It's written in C and Assembly, and it's only compatible with the x86 architecture. Don't expect to find the Linux kernel in that repository.
     </td>
   </tr>
